@@ -44,16 +44,16 @@ div{
 @media screen and (min-width:772px){
     div{
         display: inline-block;
-        width: 45%;
+        width: 45vw;
     }
     img{
-        height: 30%;
+        height: 30vh;
     }
 }
 
 @media screen and (min-width:998px){
     div{
-        width: 30%;
+        width: 30vw;
     }
 }
 
